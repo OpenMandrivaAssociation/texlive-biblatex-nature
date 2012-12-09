@@ -48,3 +48,22 @@ when preparing papers for submission to the journal Nature.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Tue Aug 07 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.2b-1
++ Revision: 812051
+- Update to latest release.
+
+* Tue Jan 03 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.2-2
++ Revision: 749669
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.2-1
++ Revision: 717930
+- texlive-biblatex-nature
+- texlive-biblatex-nature
+- texlive-biblatex-nature
+- texlive-biblatex-nature
+- texlive-biblatex-nature
+
