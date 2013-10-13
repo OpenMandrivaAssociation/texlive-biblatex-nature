@@ -1,11 +1,11 @@
-# revision 27234
+# revision 30595
 # category Package
 # catalog-ctan /macros/latex/contrib/biblatex-contrib/biblatex-nature
-# catalog-date 2012-06-08 18:13:51 +0200
+# catalog-date 2013-05-20 17:36:30 +0200
 # catalog-license lppl
-# catalog-version 1.2b
+# catalog-version 1.2e
 Name:		texlive-biblatex-nature
-Version:	1.2b
+Version:	1.2e
 Release:	1
 Summary:	Biblatex support for Nature
 Group:		Publishing
@@ -48,22 +48,3 @@ when preparing papers for submission to the journal Nature.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
-
-
-%changelog
-* Tue Aug 07 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.2b-1
-+ Revision: 812051
-- Update to latest release.
-
-* Tue Jan 03 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.2-2
-+ Revision: 749669
-- Rebuild to reduce used resources
-
-* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.2-1
-+ Revision: 717930
-- texlive-biblatex-nature
-- texlive-biblatex-nature
-- texlive-biblatex-nature
-- texlive-biblatex-nature
-- texlive-biblatex-nature
-
