@@ -6,7 +6,7 @@
 # catalog-version 1.2e
 Name:		texlive-biblatex-nature
 Version:	1.2e
-Release:	6
+Release:	7
 Summary:	Biblatex support for Nature
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-contrib/biblatex-nature
