@@ -1,12 +1,6 @@
-# revision 30595
-# category Package
-# catalog-ctan /macros/latex/contrib/biblatex-contrib/biblatex-nature
-# catalog-date 2013-05-20 17:36:30 +0200
-# catalog-license lppl
-# catalog-version 1.2e
 Name:		texlive-biblatex-nature
-Version:	1.2e
-Release:	9
+Version:	1.3b
+Release:	1
 Summary:	Biblatex support for Nature
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-contrib/biblatex-nature
@@ -32,12 +26,8 @@ when preparing papers for submission to the journal Nature.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/latex/biblatex-nature/nature.bbx
-%{_texmfdistdir}/tex/latex/biblatex-nature/nature.cbx
-%doc %{_texmfdistdir}/doc/latex/biblatex-nature/README
-%doc %{_texmfdistdir}/doc/latex/biblatex-nature/biblatex-nature.bib
-%doc %{_texmfdistdir}/doc/latex/biblatex-nature/biblatex-nature.pdf
-%doc %{_texmfdistdir}/doc/latex/biblatex-nature/biblatex-nature.tex
+%{_texmfdistdir}/tex/latex/biblatex-nature
+%doc %{_texmfdistdir}/doc/latex/biblatex-nature
 
 #-----------------------------------------------------------------------
 %prep
