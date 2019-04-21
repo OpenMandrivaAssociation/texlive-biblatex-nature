@@ -1,6 +1,6 @@
 Name:		texlive-biblatex-nature
-Version:	1.3b
-Release:	2
+Version:	1.3c
+Release:	1
 Summary:	Biblatex support for Nature
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-contrib/biblatex-nature
