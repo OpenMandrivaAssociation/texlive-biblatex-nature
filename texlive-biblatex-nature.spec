@@ -3,7 +3,7 @@ Version:	57262
 Release:	2
 Summary:	Biblatex support for Nature
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-contrib/biblatex-nature
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-contrib/biblatex-nature
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-nature.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-nature.doc.r%{version}.tar.xz
